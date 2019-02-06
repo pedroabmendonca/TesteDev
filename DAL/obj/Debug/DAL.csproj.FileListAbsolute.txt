@@ -1,0 +1,27 @@
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\bin\Debug\DAL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\bin\Debug\DAL.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\bin\Debug\Contract.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\bin\Debug\DTO.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\bin\Debug\Contract.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\bin\Debug\DTO.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\obj\Debug\DAL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DAL\obj\Debug\DAL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\bin\Debug\DAL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\bin\Debug\DAL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\bin\Debug\Contract.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\bin\Debug\DTO.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\bin\Debug\Contract.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\bin\Debug\DTO.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\obj\Debug\DAL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DAL\obj\Debug\DAL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\bin\Debug\DAL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\bin\Debug\DAL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\bin\Debug\Contract.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\bin\Debug\DTO.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\bin\Debug\Contract.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\bin\Debug\DTO.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\obj\Debug\DAL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DAL\obj\Debug\DAL.pdb

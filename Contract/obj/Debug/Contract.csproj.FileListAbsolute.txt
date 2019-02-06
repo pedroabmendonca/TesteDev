@@ -1,0 +1,21 @@
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\bin\Debug\Contract.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\bin\Debug\Contract.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\bin\Debug\DTO.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\bin\Debug\DTO.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\obj\Debug\Contract.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\Contract\obj\Debug\Contract.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\bin\Debug\Contract.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\bin\Debug\Contract.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\bin\Debug\DTO.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\bin\Debug\DTO.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\obj\Debug\Contract.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\Contract\obj\Debug\Contract.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\bin\Debug\Contract.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\bin\Debug\Contract.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\bin\Debug\DTO.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\bin\Debug\DTO.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\obj\Debug\Contract.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\Contract\obj\Debug\Contract.pdb

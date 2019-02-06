@@ -1,0 +1,13 @@
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DTO\bin\Debug\DTO.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DTO\bin\Debug\DTO.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DTO\obj\Debug\DTO.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\DTO\obj\Debug\DTO.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DTO\bin\Debug\DTO.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DTO\bin\Debug\DTO.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DTO\obj\Debug\DTO.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\DTO\obj\Debug\DTO.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DTO\bin\Debug\DTO.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DTO\bin\Debug\DTO.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DTO\obj\Debug\DTO.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\DTO\obj\Debug\DTO.pdb

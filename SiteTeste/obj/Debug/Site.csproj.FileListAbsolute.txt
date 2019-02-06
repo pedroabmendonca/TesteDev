@@ -1,0 +1,46 @@
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\SiteTeste.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\SiteTeste.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\BLL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\Contract.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DTO.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DAL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\BLL.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\Contract.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DTO.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DAL.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.App_GlobalResources.Resource.resources
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\Site.csproj.GenerateResource.Cache
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\SiteTeste.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\SiteTeste.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\BLL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\Contract.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\DTO.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\DAL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\BLL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\Contract.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\DTO.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\bin\DAL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\obj\Debug\SiteTeste.App_GlobalResources.Resource.resources
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\obj\Debug\Site.csproj.GenerateResource.Cache
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\obj\Debug\SiteTeste.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\SiteTeste\obj\Debug\SiteTeste.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\SiteTeste.dll.config
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\SiteTeste.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\SiteTeste.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\BLL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\Contract.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\DTO.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\DAL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\BLL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\Contract.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\DTO.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\bin\DAL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\obj\Debug\SiteTeste.App_GlobalResources.Resource.resources
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\obj\Debug\Site.csproj.GenerateResource.Cache
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\obj\Debug\SiteTeste.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\SiteTeste\obj\Debug\SiteTeste.pdb

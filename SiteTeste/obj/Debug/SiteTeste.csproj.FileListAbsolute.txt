@@ -1,0 +1,15 @@
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.csprojResolveAssemblyReference.cache
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.App_GlobalResources.Resource.resources
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.csproj.GenerateResource.Cache
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\SiteTeste.dll
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\SiteTeste.pdb
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\BLL.dll
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\Contract.dll
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DTO.dll
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DAL.dll
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\BLL.pdb
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\Contract.pdb
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DTO.pdb
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\bin\DAL.pdb
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.dll
+c:\users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\SiteTeste\obj\Debug\SiteTeste.pdb

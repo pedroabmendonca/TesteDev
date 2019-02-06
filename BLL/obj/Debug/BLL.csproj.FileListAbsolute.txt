@@ -1,0 +1,33 @@
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\BLL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\BLL.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\Contract.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\DAL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\DTO.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\Contract.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\DAL.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\bin\Debug\DTO.pdb
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\obj\Debug\BLL.dll
+C:\Users\jonatas.leite\documents\visual studio 2010\Projects\NeoItTesteDev\BLL\obj\Debug\BLL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\BLL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\BLL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\Contract.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\DAL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\DTO.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\Contract.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\DAL.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\bin\Debug\DTO.pdb
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\obj\Debug\BLL.dll
+C:\Users\pedro.mendonca\Documents\Pedro\neo\EntregavelPacote\Codigo\BLL\obj\Debug\BLL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\BLL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\BLL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\Contract.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\DAL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\DTO.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\Contract.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\DAL.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\bin\Debug\DTO.pdb
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\obj\Debug\BLL.dll
+C:\Users\PedroDesktop\Desktop\Nova pasta\Codigo\BLL\obj\Debug\BLL.pdb

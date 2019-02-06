@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteTeste.master.cs"
+    Inherits="SiteTeste.SiteTeste" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="Style/Site.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript">
+        function Confirmar() {
+            if (confirm("Deseja confirmar essa operação ?")) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="form">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Teste
+                </h1>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Início"/>
+                        <asp:MenuItem NavigateUrl="~/Cadastro/Regiao.aspx" Text="Cadastro Região"/>
+                        <asp:MenuItem NavigateUrl="~/Cadastro/Fornecedor.aspx" Text="Cadastro Região Fornecedor"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
